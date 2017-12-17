@@ -37,7 +37,7 @@
 		<property name="url"
 			value="jdbc:postgres://uhtkfvegyxqouc:03eecc478440c0ce154d18ff1ad1814f2cd939fe9fa3a5ca454333077626882d@ec2-54-235-244-185.compute-1.amazonaws.com:5432/dec5r910ns0j5i" />
 		<property name="username" value="uhtkfvegyxqouc" />
-		<property name="password" value="dec5r910ns0j5i" />
+		<property name="password" value="03eecc478440c0ce154d18ff1ad1814f2cd939fe9fa3a5ca454333077626882d" />
 	</bean>
 
 	<!-- HIBERNATE -->
