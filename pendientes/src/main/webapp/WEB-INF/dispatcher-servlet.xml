@@ -30,7 +30,7 @@
 		value="1234" /> </bean> -->
 
 	<bean class="java.net.URI" id="dbUrl">
-		<constructor-arg value="#{systemEnvironment['DATABASE_URL']}" />
+		<constructor-arg value="nnnnnnnnnnnnnnnnn" />
 	</bean>
 
 	<bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource">
